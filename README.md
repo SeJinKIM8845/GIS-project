@@ -22,7 +22,7 @@ Abstract
 2.2 기술 스택
 본 시스템은 다음과 같은 핵심 기술들을 활용하여 구현:
 
-서버 사이드:
+서버:
 
 Python 3.11: 핵심 애플리케이션 로직 구현
 Flask: 웹 프레임워크
@@ -32,7 +32,7 @@ PIL/Pillow: 이미지 처리
 boto3: AWS SDK for Python
 
 
-클라이언트 사이드:
+클라이언트:
 
 HTML5, CSS3, JavaScript: 웹 기반 사용자 인터페이스
 Leaflet: 오픈소스 JavaScript 지도 라이브러리
